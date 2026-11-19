@@ -24,7 +24,7 @@ Ao executar o programa, utilize as seguintes teclas para fazer sua jogada:
 
 | Tecla | Ação |
 | :---: | :--- |
-| **`R`** | Escolhe **Pedra** *(Rock)* |
+| **`R`** | Escolhe **Pedra** *(Rocha)* |
 | **`P`** | Escolhe **Papel** |
 | **`T`** | Escolhe **Tesoura** |
 | **`Q`** | Encerra o jogo e exibe o resultado final *(Quit)* |
